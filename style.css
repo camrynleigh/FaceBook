@@ -1,0 +1,168 @@
+body {
+    background-color: grey;
+}
+
+.main {
+    background-image: url("https://scontent-lax3-1.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/12548886_10154234309901754_6674909773090682773_n.jpg?oh=c7bff9dc8d08513bdb4089940767112c&oe=57429587");
+    height: 450px;
+    width: 100%;
+    background-position: center;
+    margin: -20px;
+}
+
+h1 {
+    color: black;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 20px;
+    padding-left: 230px;
+}
+
+.picture {
+    background-image: url("https://scontent-lax3-1.xx.fbcdn.net/hphotos-xtp1/t31.0-8/12473977_10154234308441754_3892591659285588161_o.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 250px;
+    border: solid grey 2px;
+    margin: 270px;
+    margin-left: 30px;
+}
+
+.about {
+    border: 1px solid grey;
+    height: 310px;
+}
+
+.status {
+    margin-left: 20px;
+    border: 1px solid grey;
+    height: 130px;
+}
+
+p {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 18px;
+}
+
+.pictures {
+    border: 1px solid grey;
+    height: 250px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.comments {
+    margin-left: 20px;
+    border: 1px solid grey;
+    height: 650px;
+    margin-top: -160px;
+    margin-bottom: 30px;
+}
+
+.friends {
+    border: 1px solid grey;
+    height: 250px;
+    margin-top: -230px;
+    margin-bottom: 30px;
+}
+
+#user-name {
+    width: 400px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.logo {
+    width: 30px;
+    height: 30px;
+}
+
+.link {
+    color: grey;
+    width: 1px;
+    padding: 5px;
+}
+
+#glyphicon {
+    padding: 5px;
+    color: grey;
+    opacity: 0.8;
+}
+
+.name-top {
+    padding-left: 100px;
+    color: #f7f7f7;
+}
+
+.home-top {
+    margin-right: 90px;
+    color: #f7f7f7;
+}
+
+#icons {
+    margin-top: 400px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#camera {
+    color: white;
+    margin-left: -480px;
+    padding: 20px;
+    opacity: 0.6;
+}
+
+.head-name {
+    margin-left: -400px;
+}
+
+.navbar-default {
+    color: black;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 16px;
+}
+
+#navbar-inner {
+    background-color: #3b5998;
+}
+
+#status-icon {
+    color: #3b5998;
+    padding: 10px;
+}
+
+#search {
+    color: darkgrey;
+}
+
+.head-pic {
+    width: 30px;
+    height: 30px;
+    margin-left: 140px;
+}
+
+.button-section {
+    margin-bottom: 40px;
+    margin-top: 10px;
+}
+
+.image {
+    height: 135px;
+    width: 120px;
+    border: 7px white solid;
+}
+
+.friend {
+    height: 135px;
+    width: 120px;
+    border: 7px white solid;
+}
+
+#fri-name {
+    margin-bottom: -10px;
+    text-align: center;
+}
+
+#globe {
+    height: 20px;
+    width: 20px;
+}
